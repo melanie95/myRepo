@@ -1,0 +1,8 @@
+div.tab {
+    background-image: linear-gradient(#FEFEFE, #F1F1F1);
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 6px;
+    border-color: #DEDEDE;
+}
